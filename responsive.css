@@ -1,0 +1,122 @@
+@media screen and (max-width:320px){
+    .navbar-brand h2{
+        font-size: 25px;
+        margin:0 10px
+    }
+    .banner h2{
+        margin-top:150px;
+        color:rgb(238, 230, 230);
+        font-size: 40px;
+        font-weight: bold;
+        text-transform: capitalize;
+        font-family:'Times New Roman', Times, serif;
+        
+    }
+    .half-banner h3{
+        margin-top:130px;
+        font-size:40px;
+        color:#fff;
+    }
+    .imgbx{
+        margin:80px auto;
+    }
+   
+
+    #feature img{
+        margin-left:30px;
+        height:80vh;
+        border-radius:15px;
+    
+    }
+    .featurtext ol {
+        margin-top:40px;
+        margin-left:50px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+   
+
+
+}
+    
+    @media screen and (max-width:360px){
+        .navbar-brand h2{
+            font-size: 25px;
+            margin:0 10px
+        }
+        .banner h2{
+            margin-top:150px;
+            color:rgb(238, 230, 230);
+            font-size: 40px;
+            font-weight: bold;
+            text-transform: capitalize;
+            font-family:'Times New Roman', Times, serif;
+            
+        }
+        .half-banner h3{
+            margin-top:130px;
+            font-size:40px;
+            color:#fff;
+        }
+        .imgbx{
+            margin:80px auto;
+        }
+       
+    
+        #feature img{
+            margin-left:30px;
+            height:80vh;
+            border-radius:15px;
+        
+        }
+        .featurtext ol {
+            margin-top:40px;
+            margin-left:50px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        } 
+     
+    }
+    
+    
+    
+     @media screen and (max-width:767px){
+        .gobtn{
+            margin-top:15px;
+            height:auto;
+            width:38% !important;
+            font-size:25px;
+            margin-left:80px;
+            border-radius:10px;
+        }
+        .fa-google-play{
+            font-size:28px;
+        }
+        .fa-apple{
+            font-size:28px;
+        
+        }
+        .iobtn{
+            display:block;
+            margin-top:15px;
+            width:38% !important;
+            font-size:20px;
+            background: #021e58;
+            border:none;
+            height:auto;
+            margin-left:79px;
+            border-radius:10px;
+        }
+        .iobtn:hover{
+            background: #021e58;
+            
+        }
+        .navbar-nav.ml-auto{
+            background-color:#062974;
+            padding:20px;
+        }
+        .navbar-toggler{
+            outline:none;
+            background-color:#F8F9F9;
+        
+        }
+        } 
+        
